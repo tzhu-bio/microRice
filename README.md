@@ -1,4 +1,6 @@
 # miRTSS workflow
+![Untitled](https://github.com/tzhu-bio/microRice/blob/main/png/miRTSS.png)
+
 See [notebook](https://nbviewer.org/github/tzhu-bio/microRice/blob/main/miRTSS/miRTSS_training.ipynb) for CNN model training.
 
 After the model has been trained, follow the steps below to get the specific TSS.
