@@ -1,5 +1,8 @@
 # miRTSS workflow
-![Untitled](https://github.com/tzhu-bio/microRice/blob/main/png/miRTSS.png)
+
+<p align="center">
+  <img src='png/miRTSS.png' width='450'>
+</p>
 
 See [notebook](https://nbviewer.org/github/tzhu-bio/microRice/blob/main/miRTSS/miRTSS_training.ipynb) for CNN model training.
 
