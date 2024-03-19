@@ -52,7 +52,7 @@ python get_nearest_candidate_TSS.py -a miRNA.bed -b *H3K4me3_predicted_score_pre
 
 ### Background
 
-Intragenic miRNAs and their host genes either share the promoter or have independent transcription starting site. It is widely acknowledged that intragenic miRNAs are generally transcribed along with their host genes. Therefore, if there are no candidate TSSs within 5 kb upstream intragenic miRNA, the region within 1 kb upstream of the TSS of the host gene is considered as the miRNA TSS. This script aims to identify intragenic miRNAs (excluding antisense miRNAs, as they have opposite transcriptional orientations to their host genes and are unlikely to share promoters) along with their respective host gene genomic locations.
+Intragenic miRNAs and their host genes either share the promoter or have independent transcription starting site [(Ref)](https://pubmed.ncbi.nlm.nih.gov/30785618/). It is widely acknowledged that intragenic miRNAs are generally transcribed along with their host genes. Therefore, if there are no candidate TSSs within 5 kb upstream intragenic miRNA, the region within 1 kb upstream of the TSS of the host gene is considered as the miRNA TSS. This script aims to identify intragenic miRNAs (excluding antisense miRNAs, as they have opposite transcriptional orientations to their host genes and are unlikely to share promoters) along with their respective host gene genomic locations.
 
 ![Untitled](https://github.com/tzhu-bio/microRice/blob/main/png/1.png)
 
