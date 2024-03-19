@@ -100,7 +100,7 @@ python miRNA_classify.py -a miRNA.bed -b gene.bed
 
 ### Background
 
-This script aims to modify the output results obtained from `**get_nearest_candidate_TSS.py**`. It will assign host gene TSSs to intragenic miRNAs located on the same strand as their host genes and lacking candidate TSSs within 5kb upstream.  This distance can be customized.  Before running this script, make sure to run `**get_nearest_candidate_TSS.py`** and `**miRNA_classify.py**` first.
+This script aims to modify the output results obtained from **`get_nearest_candidate_TSS.py`**. It will assign host gene TSSs to intragenic miRNAs located on the same strand as their host genes and lacking candidate TSSs within 5kb upstream.  This distance can be customized.  Before running this script, make sure to run **`get_nearest_candidate_TSS.py`** and **`miRNA_classify.py`** first.
 
 ---
 
